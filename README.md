@@ -1,1 +1,2 @@
-# snhu-cs255-portfolio
+# SNHU CS-255 System Analysis and Design Portfolio
+
